@@ -1,19 +1,21 @@
 ### 👋 Hello, welcome to my GitHub!
 
-I'm a 19-year-old Computer Science undergraduate (2nd semester) with a strong interest in fullstack development and software engineering.
+I'm a 19-year-old Computer Science undergraduate (2nd semester), focused on backend development and passionate about building scalable and efficient systems.
+
+Although I don't have professional experience yet, I dedicate myself to learning by developing academic and personal projects that reflect real-world backend architecture and practices.
 
 💻 **Tech Stack & Tools:**
 
 - **Languages:** Java, TypeScript  
-- **Frontend:** React, Next.js (Fullstack Framework)  
-- **Backend:** Spring Boot (Java), Node.js (with Express)  
+- **Backend Frameworks:** Spring Boot (Java), Node.js (with Express)  
 - **Database & ORM:** PostgreSQL, Prisma  
-- **Dev Tools:** VS Code, IntelliJ, Postman  
+- **Frontend (basic knowledge):** React, Next.js  
+- **Dev Tools:** IntelliJ, VS Code, Postman  
 
 🎯 **Currently focused on:**
 
-- Building fullstack applications with clean, scalable code  
-- Strengthening backend architecture and database integration  
-- Learning industry-standard tools and frameworks  
+- Designing and developing robust RESTful APIs  
+- Learning backend architecture and database integration  
+- Writing clean, maintainable, and testable code  
 
-🚀 **Open to internships, junior roles, and collaborations.**
+🚀 **Looking for my first internship opportunity in backend development.**
