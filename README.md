@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hey there!
 
-<!--
-**JoaoPedroAraujoSouza/JoaoPedroAraujoSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old Computer Science student currently in my 2nd semester, passionate about creating clean, useful, and impactful applications.
 
-Here are some ideas to get you started:
+🚀 **Currently learning and working with:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript  
+- **Frontend:** React, Next.js (Fullstack Framework)  
+- **Backend:** Spring Boot (Java), Node.js (with Express)  
+- **Database & ORM:** PostgreSQL, Prisma  
+- **Dev Tools:** Postman, VS Code, IntelliJ  
+
+🧠 I'm always improving my skills and exploring modern technologies to build fullstack applications.
