@@ -1,6 +1,6 @@
 ### 👋 Hello, welcome to my GitHub!
 
-I'm a 19-year-old Computer Science undergraduate at Universidade Federal de Pernambuco (UFRPE) (2nd semester), focused on backend development and passionate about building scalable and efficient systems.
+I'm a 19-year-old Computer Science undergraduate at **Federal University of Pernambuco (UFRPE)** (2nd semester), focused on backend development and passionate about building scalable and efficient systems.
 
 Although I don't have professional experience yet, I dedicate myself to learning through academic and personal projects that reflect real-world backend architecture and practices.
 
