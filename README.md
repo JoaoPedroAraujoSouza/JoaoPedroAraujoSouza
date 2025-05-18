@@ -9,7 +9,7 @@ Although I don't have professional experience yet, I dedicate myself to learning
 - **Languages:** Java, TypeScript  
 - **Backend Frameworks:** Spring Boot (Java), Node.js (with Express)  
 - **Database & ORM:** PostgreSQL, Prisma  
-- **Frontend (basic knowledge):** React, Next.js  
+- **Frontend (basic knowledge):** React, Next.js, Angular  
 - **Dev Tools:** IntelliJ, VS Code, Postman  
 
 🎯 **Currently focused on:**
