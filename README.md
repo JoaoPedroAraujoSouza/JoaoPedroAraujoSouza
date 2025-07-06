@@ -11,7 +11,7 @@
   I'm a developer focused on finding efficient solutions and creating innovative projects. Currently, I'm deepening my knowledge in full-stack software development, building robust and scalable applications. I am always seeking new challenges that allow me to grow and apply my skills.
 </p>
 
-- 🔭 I’m currently working on... **Room Alocator in Java and frontend develoment in React Native**
+- 🔭 I’m currently working on... **a Room Allocator in Java and a front-end in React Native.**
 - 🌱 I’m currently learning... **React Native and cross-platform mobile development.**
 - 📫 How to reach me: **joao.pedroaraujosouza@ufrpe.br**
 
@@ -22,54 +22,40 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,typescript,react,nextjs,postgres,git,github,vscode" />
-    </a>
+  </a>
 </p>
 
 ---
 
-### 🚀 My Featured Projects
+### 🚀 My Featured Project
 
-<table border="0" cellpadding="10">
-  <tr border="0">
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/JoaoPedroAraujoSouza/numerical_integration" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=numerical_integration&theme=github_dark&show_owner=true" alt="Numerical Integration Repository">
-        </a>
-      </p>
-      <p align="center">
-        <strong>Numerical Integration</strong><br>
-        An implementation of numerical integration methods in Python for academic purposes.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/JoaoPedroAraujoSouza/room-allocator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-allocator&theme=github_dark&show_owner=true" alt="Room Allocator Repository">
-        </a>
-      </p>
-      <p align="center">
-        <strong>Room Allocator</strong><br>
-        A C algorithm for optimized room allocation based on given constraints.
-      </p>
-    </td>
-  </tr>
-  <tr border="0">
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/JoaoPedroAraujoSouza/Sonic-Game" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=Sonic-Game&theme=github_dark&show_owner=true" alt="Sonic Game Repository">
-        </a>
-      </p>
-      <p align="center">
-        <strong>Sonic Game Clone</strong><br>
-        A simple clone of the Sonic game developed in C# as a learning project.
-      </p>
-    </td>
-    <td width="50%" align="center">
-      </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <a href="https://github.com/JoaoPedroAraujoSouza/room-allocator" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-allocator&theme=github_dark&show_owner=true" alt="Room Allocator Repository">
+    </a>
+  </p>
+  <p>
+    <strong>Room Allocator</strong><br>
+    A C algorithm for optimized room allocation based on given constraints.
+  </p>
+</div>
+
+---
+
+### 🤝 Open Source Contributions
+
+<p align="center">
+  Here I highlight some of my contributions to open source and academic projects.
+</p>
+
+<div align="center">
+  <p>
+    <strong><a href="https://github.com/emanuelrodrigues2005/monitoramento-de-bolsistas-backend" target="_blank">emanuelrodrigues2005/monitoramento-de-bolsistas-backend</a></strong><br>
+    <em>My contribution: Developed the core CRUD operations and performed API endpoint testing using Postman.</em>
+  </p>
+</div>
+
 
 ---
 
