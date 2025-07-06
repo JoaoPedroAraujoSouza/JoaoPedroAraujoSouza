@@ -15,13 +15,9 @@
   I'm a developer focused on finding efficient solutions and creating innovative projects. Currently, I'm deepening my knowledge in full-stack software development, building robust and scalable applications. I am always seeking new challenges that allow me to grow and apply my skills.
 </p>
 
-- 🔭 I’m currently working on... **(e.g., a personal project with Next.js and Java)**
+- 🔭 I’m currently working on... **Manager Room in Java and frontend develoment in React Native**
 - 🌱 I’m currently learning... **React Native and cross-platform mobile development.**
-- 👯 I’m looking to collaborate on... **(e.g., open-source projects using TypeScript or Java)**
-- 🤔 I’m looking for help with... **(e.g., complex algorithm optimization)**
-- 💬 Ask me about... **(Any of the technologies below!)**
-- 📫 How to reach me: **joaopedrorwa@outlook.com**
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: **joao.pedroaraujosouza@ufrpe.br**
 
 ---
 
