@@ -11,7 +11,7 @@
   I'm a developer focused on finding efficient solutions and creating innovative projects. Currently, I'm deepening my knowledge in full-stack software development, building robust and scalable applications. I am always seeking new challenges that allow me to grow and apply my skills.
 </p>
 
-- 🔭 I’m currently working on... **a Room Allocator in Java and a front-end in React Native.**
+- 🔭 I’m currently working on... **Backend on system of Room Allocator in Java and a front-end in React Native.**
 - 🌱 I’m currently learning... **React Native and cross-platform mobile development.**
 - 📫 How to reach me: **joao.pedroaraujosouza@ufrpe.br**
 
@@ -31,7 +31,7 @@
 
 <div align="center">
   <p>
-    <a href="https://github.com/JoaoPedroAraujoSouza/room-allocator" target="_blank">
+    <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-allocator&theme=github_dark&show_owner=true" alt="Room Allocator Repository">
     </a>
   </p>
