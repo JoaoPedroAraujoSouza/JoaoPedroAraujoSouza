@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://path.to/your/banner-image.png" alt="Profile Banner" />
-  </p>
-
 <h1 align="center">Hi, I'm João Pedro! 👋</h1>
 <p align="center">
   <em>A technology enthusiast and Computer Science student at the <strong>Federal Rural University of Pernambuco (UFRPE)</strong>.</em>
@@ -15,7 +11,7 @@
   I'm a developer focused on finding efficient solutions and creating innovative projects. Currently, I'm deepening my knowledge in full-stack software development, building robust and scalable applications. I am always seeking new challenges that allow me to grow and apply my skills.
 </p>
 
-- 🔭 I’m currently working on... **Manager Room in Java and frontend develoment in React Native**
+- 🔭 I’m currently working on... **Room Alocator in Java and frontend develoment in React Native**
 - 🌱 I’m currently learning... **React Native and cross-platform mobile development.**
 - 📫 How to reach me: **joao.pedroaraujosouza@ufrpe.br**
 
