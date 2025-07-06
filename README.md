@@ -11,7 +11,7 @@
   I'm a developer focused on finding efficient solutions and creating innovative projects. Currently, I'm deepening my knowledge in full-stack software development, building robust and scalable applications. I am always seeking new challenges that allow me to grow and apply my skills.
 </p>
 
-- 🔭 I’m currently working on... **Backend on system of Room Allocator in Java and a front-end in React Native.**
+- 🔭 I’m currently working on... **the back-end for a Room Allocator system in Java and a front-end in React Native.**
 - 🌱 I’m currently learning... **React Native and cross-platform mobile development.**
 - 📫 How to reach me: **joao.pedroaraujosouza@ufrpe.br**
 
@@ -32,12 +32,12 @@
 <div align="center">
   <p>
     <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-allocator&theme=github_dark&show_owner=true" alt="Room Allocator Repository">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=github_dark&show_owner=true" alt="Room Allocator Repository">
     </a>
   </p>
   <p>
     <strong>Room Allocator</strong><br>
-    A C algorithm for optimized room allocation based on given constraints.
+    A back-end system for room allocation and management built with Java.
   </p>
 </div>
 
@@ -64,4 +64,13 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroAraujoSouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroAraujoSouza&layout=compact&langs_count=7&theme=github_dark"/>
+</p>
+
+---
+
+### 🔗 Where to Find Me
+
+<p align="center">
+  <a href="mailto:joao.pedroaraujosouza@ufrpe.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
