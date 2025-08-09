@@ -1,6 +1,6 @@
-<h1 align="center">João Pedro Araújo Souza</h1>
+<h1 align="center">João Pedro de Araújo Souza</h1>
 <p align="center">
-  <strong>Full-Stack Developer | Computer Science Student | Java & React Native Specialist</strong>
+  <strong>Full-Stack Developer | Computer Science Student</strong>
 </p>
 <p align="center">
   <em>Building scalable applications with modern technologies at <strong>Federal Rural University of Pernambuco (UFRPE)</strong></em>
@@ -18,11 +18,12 @@
 
 ## 👨‍💻 Professional Summary
 
-Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backend development and **React Native** cross-platform mobile applications. Currently pursuing Computer Science with hands-on experience in building enterprise-grade systems, RESTful APIs, and modern mobile solutions. Proven track record in collaborative development and comprehensive API testing.
+Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and **Node.js** backend development, plus **React Native** cross-platform mobile applications. Currently pursuing Computer Science with hands-on experience in building enterprise-grade systems, RESTful APIs, and modern web solutions. Proven track record in collaborative development and comprehensive API testing.
 
-**🚀 Currently Building:** Room Allocator system with Spring Boot microservices and React Native mobile interface  
-**🎯 Specializing In:** Enterprise Java applications, cross-platform mobile development, and API architecture  
-**🔍 Open To:** Full-stack developer positions, mobile development roles, and backend engineering opportunities
+**🚀 Currently Building:** Regional Health System frontend with modern web technologies  
+**✅ Recently Completed:** Room Allocator system with Spring Boot microservices and React Native mobile interface  
+**🎯 Specializing In:** Enterprise Java applications, Node.js backends, cross-platform mobile development, and modern web interfaces  
+**🔍 Open To:** Full-stack developer positions, frontend development roles, and backend engineering opportunities
 
 ---
 
@@ -31,7 +32,7 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backe
 **Backend Development:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres" />
   </a>
 </p>
 
@@ -50,7 +51,7 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backe
 </p>
 
 ### Core Competencies
-- **Backend:** Spring Boot, RESTful APIs, Microservices Architecture, Database Design (PostgreSQL)
+- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices Architecture, Database Design (PostgreSQL)
 - **Mobile:** React Native, Cross-platform Development, TypeScript, Mobile UI/UX
 - **Frontend:** React.js, Next.js, Responsive Design, Modern JavaScript (ES6+)
 - **DevOps & Testing:** Git workflows, API testing with Postman, Agile development practices
@@ -65,13 +66,15 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backe
   </a>
 </div>
 
-### 🏢 Room Allocator System
+### 🏢 Room Allocator System ✅ *Completed*
 **Tech Stack:** Spring Boot • React Native • PostgreSQL • RESTful APIs  
 **Key Features:**
 - Enterprise-grade backend with Spring Boot microservices
 - Cross-platform mobile application with React Native
 - Comprehensive API testing suite with Postman
 - Real-time room management and allocation algorithms
+
+**Achievement:** Successfully delivered a complete full-stack solution combining robust backend architecture with intuitive mobile interface.
 
 ---
 
@@ -82,15 +85,16 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backe
 **🏥 Regional Health System Frontend**  
 *Repository: [saude-regional-front](https://github.com/seedabit/saude-regional-front)*  
 **My Contributions:**
-- ✅ Contributed to frontend development for regional health management system
-- ✅ Implemented user interface components and responsive design patterns
-- ✅ Collaborated in healthcare technology solutions development
-- ✅ Applied modern frontend practices in production environment
+- ✅ Leading frontend development for regional health management system
+- ✅ Implementing responsive user interface components and modern design patterns
+- ✅ Developing healthcare technology solutions with focus on user experience
+- ✅ Applying cutting-edge frontend practices in production environment
+- 🔄 **Currently Active Project**
 
 **📊 Scholarship Monitoring System**  
 *Repository: [monitoramento-de-bolsistas-backend](https://github.com/emanuelrodrigues2005/monitoramento-de-bolsistas-backend)*  
 **My Contributions:**
-- ✅ Architected and implemented core CRUD operations with Spring Boot
+- ✅ Architected and implemented core CRUD operations
 - ✅ Designed RESTful API endpoints following industry best practices  
 - ✅ Conducted comprehensive API testing and documentation using Postman
 - ✅ Collaborated in agile development environment with version control (Git)
@@ -114,7 +118,7 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** backe
 
 ## 🎯 What I Bring to Your Team
 
-- **🏗️ Architecture Mindset:** Experience designing scalable, maintainable systems with Spring Boot
+- **🏗️ Architecture Mindset:** Experience designing scalable, maintainable systems with Spring Boot and Node.js
 - **📱 Mobile-First Approach:** Proven ability to create intuitive cross-platform mobile experiences
 - **🔧 Quality Assurance:** Comprehensive testing practices ensuring robust, production-ready applications  
 - **🤝 Collaboration Ready:** Experience in agile environments with strong Git workflow practices
