@@ -8,8 +8,8 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-joao.pedroaraujosouza%40ufrpe.br-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.pedroaraujosouza@ufrpe.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
+[![Email](https://img.shields.io/badge/Email-joaopedroaraujosouzadev%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.pedroaraujosouza@ufrpe.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPedroAraujoSouza)
 
 </div>
@@ -135,3 +135,4 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and *
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
 
 </div>
+
