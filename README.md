@@ -131,9 +131,10 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and *
 ### 💬 Let's Connect!
 *Ready to contribute to innovative projects and drive technical excellence*
 
-[![Email](https://img.shields.io/badge/Email%20Me-joao.pedroaraujosouza%40ufrpe.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 
 </div>
+
 
 
