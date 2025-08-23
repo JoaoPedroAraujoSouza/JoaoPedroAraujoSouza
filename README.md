@@ -3,7 +3,7 @@
   <strong>Backend Developer | Computer Science Student</strong>
 </p>
 <p align="center">
-  <em>Building scalable applications with modern technologies at <strong>Federal Rural University of Pernambuco (UFRPE)</strong></em>
+  <em>Building scalable backend systems with modern technologies at <strong>Federal Rural University of Pernambuco (UFRPE)</strong></em>
 </p>
 
 <div align="center">
@@ -18,13 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Full-Stack Developer** with a strong foundation in **Java Spring Boot**, **PostgreSQL**, and **Docker**.  
-Currently pursuing **Computer Science** at UFRPE, I have hands-on experience building **enterprise-grade systems**, **RESTful APIs**, and **scalable web/mobile applications**.  
+I am a passionate **Backend Developer** with a strong foundation in **Java Spring Boot**, **PostgreSQL**, and **Docker**.  
+Currently pursuing **Computer Science** at UFRPE, I focus on building **enterprise-grade systems**, **RESTful APIs**, and **scalable backend services**.  
 
-**🚀 Currently Building:** Regional Health System frontend with modern web technologies  
+**🚀 Currently Building:** Regional Health System frontend (collaboration project)  
 **✅ Recently Completed:** Room Allocator (Spring Boot microservices + React Native mobile)  
-**🎯 Specializing In:** Backend architecture, API design, cross-platform mobile apps, and modern frontend development  
-**🔍 Open To:** Full-stack developer and backend engineering opportunities  
+**🎯 Specializing In:** Backend architecture, API design, and system scalability  
+**🔍 Open To:** Backend engineering and API-focused development opportunities  
 
 ---
 
@@ -35,7 +35,7 @@ Currently pursuing **Computer Science** at UFRPE, I have hands-on experience bui
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres" />
 </p>
 
-**Frontend & Mobile**
+**Frontend & Mobile (secondary)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" />
 </p>
@@ -46,44 +46,45 @@ Currently pursuing **Computer Science** at UFRPE, I have hands-on experience bui
 </p>
 
 ### Core Competencies
-- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices Architecture, Database Design (PostgreSQL)  
-- **Mobile:** React Native, Cross-platform Development, TypeScript, Mobile UI/UX  
-- **Frontend:** React.js, Next.js, Responsive Design, Modern JavaScript (ES6+)  
-- **DevOps & Testing:** Docker, Swagger (API documentation), Git workflows, Postman (API testing), Agile development practices  
+- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices, PostgreSQL schema design  
+- **Testing & Documentation:** Swagger, Postman, JUnit, Mockito  
+- **DevOps & Tools:** Docker, Git/GitHub, Agile development practices  
+- **Frontend/Mobile (support):** React.js, Next.js, React Native  
 
 ---
 
 ## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=tokyonight&show_owner=true" alt="Room Allocator Repository">
-  </a>
   <a href="https://github.com/JoaoPedroAraujoSouza/bank-lite-api" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=bank-lite-api&theme=tokyonight&show_owner=true" alt="Bank Lite API Repository">
   </a>
+  <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=tokyonight&show_owner=true" alt="Room Allocator Repository">
+  </a>
 </div>
+
+### 💳 Bank Lite API ✅ *Strong Foundation Project*
+**Stack:** Java • Spring Boot • PostgreSQL • Docker • Swagger • Flyway • Testcontainers  
+- 🔐 Secure banking API with JWT-based authentication  
+- 🗄️ CRUD operations for clients, accounts, and transactions  
+- 💸 Supports deposits, withdrawals, transfers, and account statements  
+- 🐳 Fully containerized environment with Docker Compose  
+- 📜 Interactive API documentation with Swagger UI  
+- 🧩 Clean, layered architecture with proper domain separation  
+
+**Achievement:** Built as a **strong foundation project**, demonstrating expertise in **backend engineering, containerization, and modern API practices**.  
+
+---
 
 ### 🏢 Room Allocator System ✅ *Completed*
 **Stack:** Spring Boot • React Native • PostgreSQL • RESTful APIs • Postman  
 - 🏗️ Enterprise-grade backend with Spring Boot microservices  
 - 📱 Cross-platform mobile application with React Native  
 - ✅ Comprehensive API testing suite with Postman  
-- ⚡ Real-time room management and allocation algorithms  
+- ⚡ Real-time room allocation algorithms  
 
-**Achievement:** Delivered a robust full-stack solution, combining **scalable backend architecture** with an **intuitive mobile interface**.
-
----
-
-### 💳 Bank Lite API ✅ *Completed*
-**Stack:** Node.js • Express • PostgreSQL • Docker • Swagger  
-- 🔐 RESTful API simulating a lightweight banking system  
-- 🗄️ CRUD operations for accounts and transactions  
-- 🐳 Containerized development environment with Docker  
-- 📜 Interactive API documentation with Swagger  
-- 🧩 Modularized and clean architecture design  
-
-**Achievement:** Demonstrated expertise in **API design**, **containerization**, and **developer-friendly documentation**.
+**Achievement:** Delivered a robust solution combining a **scalable backend** with an **intuitive mobile interface**.  
 
 ---
 
@@ -91,15 +92,13 @@ Currently pursuing **Computer Science** at UFRPE, I have hands-on experience bui
 
 **🏥 Regional Health System Frontend**  
 *Repository: [saude-regional-front](https://github.com/seedabit/saude-regional-front)*  
-- ✅ Leading frontend development with modern design patterns  
-- ✅ Building responsive UI components and UX-focused solutions  
-- 🔄 Actively contributing to a healthcare technology platform in production  
+- ✅ Building responsive UI components with React  
+- ✅ Contributing to a real-world healthcare platform  
 
 **📊 Scholarship Monitoring System**  
 *Repository: [monitoramento-de-bolsistas-backend](https://github.com/emanuelrodrigues2005/monitoramento-de-bolsistas-backend)*  
-- ✅ Architected and implemented core CRUD operations  
-- ✅ Designed RESTful API endpoints and tested with Postman  
-- 🤝 Worked in an agile team with Git version control  
+- ✅ Designed core CRUD operations and REST endpoints  
+- 🤝 Collaborated in an agile team using Git  
 
 ---
 
@@ -118,21 +117,20 @@ Currently pursuing **Computer Science** at UFRPE, I have hands-on experience bui
 
 ## 🎯 What I Bring to Your Team
 
-- 🏗️ **System Architecture:** Designing scalable and maintainable systems with Spring Boot and Node.js  
-- 📱 **Mobile-First Approach:** Creating intuitive cross-platform experiences with React Native  
-- 🔧 **Robust Quality Assurance:** Testing and documenting APIs with Swagger & Postman  
-- 🤝 **Collaboration-Driven:** Experienced in agile teamwork with strong Git workflows  
-- 📈 **Continuous Growth:** Always learning and applying best practices with cutting-edge tools  
+- 🏗️ **Backend-first approach:** Scalable and maintainable APIs with Spring Boot  
+- 🔐 **Security-aware:** JWT authentication, validation, error handling  
+- 📜 **Well-documented APIs:** Swagger UI + Postman collections  
+- 🔧 **Testing & Reliability:** Unit tests and integration tests with Testcontainers  
+- 🤝 **Collaboration:** Agile teamwork, Git workflows, code reviews  
 
 ---
 
 <div align="center">
   
-### 💬 Let's Connect!
-*Ready to contribute to innovative projects and drive technical excellence.*
+### 💬 Let’s Connect!
+*Open to backend engineering roles and opportunities to build impactful systems.*
 
 [![Email](https://img.shields.io/badge/Email%20Me-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 
 </div>
-
