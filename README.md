@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-joaopedroaraujosouzadev%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.pedroaraujosouza@ufrpe.br)
+[![Email](https://img.shields.io/badge/Email-joaopedroaraujosouzadev%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.pedroaraujosouzadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPedroAraujoSouza)
 
@@ -16,45 +16,40 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and **Node.js** backend development, plus **React Native** cross-platform mobile applications. Currently pursuing Computer Science with hands-on experience in building enterprise-grade systems, RESTful APIs, and modern web solutions. Proven track record in collaborative development and comprehensive API testing.
+I’m a passionate **Full-Stack Developer** with a strong foundation in **Java Spring Boot**, **Node.js**, and **React Native**.  
+Currently pursuing **Computer Science** at UFRPE, I have hands-on experience building **enterprise-grade systems**, **RESTful APIs**, and **scalable web/mobile applications**.  
 
 **🚀 Currently Building:** Regional Health System frontend with modern web technologies  
-**✅ Recently Completed:** Room Allocator system with Spring Boot microservices and React Native mobile interface  
-**🎯 Specializing In:** Enterprise Java applications, Node.js backends, cross-platform mobile development, and modern web interfaces  
-**🔍 Open To:** Full-stack developer positions, frontend development roles, and backend engineering opportunities
+**✅ Recently Completed:** Room Allocator (Spring Boot microservices + React Native mobile)  
+**🎯 Specializing In:** Backend architecture, API design, cross-platform mobile apps, and modern frontend development  
+**🔍 Open To:** Full-stack developer, backend engineering, and frontend development opportunities  
 
 ---
 
 ## 🛠️ Technical Expertise
 
-**Backend Development:**
+**Backend Development**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres" />
 </p>
 
-**Frontend/Mobile Development:**
+**Frontend & Mobile**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" />
 </p>
 
-**Development Tools:**
+**DevOps & Tools**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,postman" />
 </p>
 
 ### Core Competencies
-- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices Architecture, Database Design (PostgreSQL)
-- **Mobile:** React Native, Cross-platform Development, TypeScript, Mobile UI/UX
-- **Frontend:** React.js, Next.js, Responsive Design, Modern JavaScript (ES6+)
-- **DevOps & Testing:** Git workflows, API testing with Postman, Agile development practices
+- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices Architecture, Database Design (PostgreSQL)  
+- **Mobile:** React Native, Cross-platform Development, TypeScript, Mobile UI/UX  
+- **Frontend:** React.js, Next.js, Responsive Design, Modern JavaScript (ES6+)  
+- **DevOps & Testing:** Docker, Swagger (API documentation), Git workflows, Postman (API testing), Agile development practices  
 
 ---
 
@@ -64,42 +59,47 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and *
   <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=tokyonight&show_owner=true" alt="Room Allocator Repository">
   </a>
+  <a href="https://github.com/JoaoPedroAraujoSouza/bank-lite-api" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=bank-lite-api&theme=tokyonight&show_owner=true" alt="Bank Lite API Repository">
+  </a>
 </div>
 
 ### 🏢 Room Allocator System ✅ *Completed*
-**Tech Stack:** Spring Boot • React Native • PostgreSQL • RESTful APIs  
-**Key Features:**
-- Enterprise-grade backend with Spring Boot microservices
-- Cross-platform mobile application with React Native
-- Comprehensive API testing suite with Postman
-- Real-time room management and allocation algorithms
+**Stack:** Spring Boot • React Native • PostgreSQL • RESTful APIs • Postman  
+- 🏗️ Enterprise-grade backend with Spring Boot microservices  
+- 📱 Cross-platform mobile application with React Native  
+- ✅ Comprehensive API testing suite with Postman  
+- ⚡ Real-time room management and allocation algorithms  
 
-**Achievement:** Successfully delivered a complete full-stack solution combining robust backend architecture with intuitive mobile interface.
+**Achievement:** Delivered a robust full-stack solution, combining **scalable backend architecture** with an **intuitive mobile interface**.
+
+---
+
+### 💳 Bank Lite API ✅ *Completed*
+**Stack:** Node.js • Express • PostgreSQL • Docker • Swagger  
+- 🔐 RESTful API simulating a lightweight banking system  
+- 🗄️ CRUD operations for accounts and transactions  
+- 🐳 Containerized development environment with Docker  
+- 📜 Interactive API documentation with Swagger  
+- 🧩 Modularized and clean architecture design  
+
+**Achievement:** Demonstrated expertise in **API design**, **containerization**, and **developer-friendly documentation**.
 
 ---
 
 ## 🤝 Professional Contributions
 
-### Open Source & Collaborative Projects
-
 **🏥 Regional Health System Frontend**  
 *Repository: [saude-regional-front](https://github.com/seedabit/saude-regional-front)*  
-**My Contributions:**
-- ✅ Leading frontend development for regional health management system
-- ✅ Implementing responsive user interface components and modern design patterns
-- ✅ Developing healthcare technology solutions with focus on user experience
-- ✅ Applying cutting-edge frontend practices in production environment
-- 🔄 **Currently Active Project**
+- ✅ Leading frontend development with modern design patterns  
+- ✅ Building responsive UI components and UX-focused solutions  
+- 🔄 Actively contributing to a healthcare technology platform in production  
 
 **📊 Scholarship Monitoring System**  
 *Repository: [monitoramento-de-bolsistas-backend](https://github.com/emanuelrodrigues2005/monitoramento-de-bolsistas-backend)*  
-**My Contributions:**
-- ✅ Architected and implemented core CRUD operations
-- ✅ Designed RESTful API endpoints following industry best practices  
-- ✅ Conducted comprehensive API testing and documentation using Postman
-- ✅ Collaborated in agile development environment with version control (Git)
-
-**Impact:** Delivered scalable solutions for both healthcare management and educational institutions, demonstrating versatility across different domains and full-stack development capabilities.
+- ✅ Architected and implemented core CRUD operations  
+- ✅ Designed RESTful API endpoints and tested with Postman  
+- 🤝 Worked in an agile team with Git version control  
 
 ---
 
@@ -118,23 +118,20 @@ Passionate **Full-Stack Developer** with expertise in **Java Spring Boot** and *
 
 ## 🎯 What I Bring to Your Team
 
-- **🏗️ Architecture Mindset:** Experience designing scalable, maintainable systems with Spring Boot and Node.js
-- **📱 Mobile-First Approach:** Proven ability to create intuitive cross-platform mobile experiences
-- **🔧 Quality Assurance:** Comprehensive testing practices ensuring robust, production-ready applications  
-- **🤝 Collaboration Ready:** Experience in agile environments with strong Git workflow practices
-- **📈 Growth Oriented:** Continuously learning cutting-edge technologies and best practices
+- 🏗️ **System Architecture:** Designing scalable and maintainable systems with Spring Boot and Node.js  
+- 📱 **Mobile-First Approach:** Creating intuitive cross-platform experiences with React Native  
+- 🔧 **Robust Quality Assurance:** Testing and documenting APIs with Swagger & Postman  
+- 🤝 **Collaboration-Driven:** Experienced in agile teamwork with strong Git workflows  
+- 📈 **Continuous Growth:** Always learning and applying best practices with cutting-edge tools  
 
 ---
 
 <div align="center">
   
 ### 💬 Let's Connect!
-*Ready to contribute to innovative projects and drive technical excellence*
+*Ready to contribute to innovative projects and drive technical excellence.*
 
 [![Email](https://img.shields.io/badge/Email%20Me-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 
 </div>
-
-
-
