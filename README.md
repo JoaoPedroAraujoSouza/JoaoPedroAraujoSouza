@@ -1,6 +1,6 @@
 <h1 align="center">João Pedro de Araújo Souza</h1>
 <p align="center">
-  <strong>Full-Stack Developer | Computer Science Student</strong>
+  <strong>Backend Developer | Computer Science Student</strong>
 </p>
 <p align="center">
   <em>Building scalable applications with modern technologies at <strong>Federal Rural University of Pernambuco (UFRPE)</strong></em>
@@ -18,13 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Full-Stack Developer** with a strong foundation in **Java Spring Boot**, **Node.js**, and **React Native**.  
+I’m a passionate **Full-Stack Developer** with a strong foundation in **Java Spring Boot**, **PostgreSQL**, and **Docker**.  
 Currently pursuing **Computer Science** at UFRPE, I have hands-on experience building **enterprise-grade systems**, **RESTful APIs**, and **scalable web/mobile applications**.  
 
 **🚀 Currently Building:** Regional Health System frontend with modern web technologies  
 **✅ Recently Completed:** Room Allocator (Spring Boot microservices + React Native mobile)  
 **🎯 Specializing In:** Backend architecture, API design, cross-platform mobile apps, and modern frontend development  
-**🔍 Open To:** Full-stack developer, backend engineering, and frontend development opportunities  
+**🔍 Open To:** Full-stack developer and backend engineering opportunities  
 
 ---
 
@@ -135,3 +135,4 @@ Currently pursuing **Computer Science** at UFRPE, I have hands-on experience bui
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 
 </div>
+
