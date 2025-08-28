@@ -1,136 +1,156 @@
-<h1 align="center">João Pedro de Araújo Souza</h1>
-<p align="center">
-  <strong>Backend Developer | Computer Science Student</strong>
-</p>
-<p align="center">
-  <em>Building scalable backend systems with modern technologies at <strong>Federal Rural University of Pernambuco (UFRPE)</strong></em>
-</p>
-
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-joaopedroaraujosouzadev%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:joao.pedroaraujosouzadev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat&logo=github&logoColor=white)](https://github.com/JoaoPedroAraujoSouza)
+
+# João Pedro de Araújo Souza
+### 🚀 Backend Developer | Computer Science Student
+
+*Building scalable backend systems with modern technologies*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Projects-6366f1?style=for-the-badge&logoColor=white)](https://github.com/JoaoPedroAraujoSouza)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-0078D4?style=for-the-badge&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-I am a passionate **Backend Developer** with a strong foundation in **Java Spring Boot**, **PostgreSQL**, and **Docker**.  
-Currently pursuing **Computer Science** at UFRPE, I focus on building **enterprise-grade systems**, **RESTful APIs**, and **scalable backend services**.  
-
-**🚀 Currently Building:** Regional Health System frontend (collaboration project)  
-**✅ Recently Completed:** Room Allocator (Spring Boot microservices + React Native mobile)  
-**🎯 Specializing In:** Backend architecture, API design, and system scalability  
-**🔍 Open To:** Backend engineering and API-focused development opportunities  
-
----
-
-## 🛠️ Technical Expertise
-
-**Backend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres" />
-</p>
-
-**Frontend & Mobile (secondary)**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs" />
-</p>
-
-**DevOps & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,postman" />
-</p>
-
-### Core Competencies
-- **Backend:** Spring Boot, Node.js, RESTful APIs, Microservices, PostgreSQL schema design  
-- **Testing & Documentation:** Swagger, Postman, JUnit, Mockito  
-- **DevOps & Tools:** Docker, Git/GitHub, Agile development practices  
-- **Frontend/Mobile (support):** React.js, Next.js, React Native  
-
----
-
-## 💼 Featured Projects
+> **Passionate Backend Developer** specializing in **enterprise-grade systems** and **scalable APIs**  
+> Currently pursuing **Computer Science** at **Federal Rural University of Pernambuco (UFRPE)**
 
 <div align="center">
-  <a href="https://github.com/JoaoPedroAraujoSouza/bank-lite-api" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=bank-lite-api&theme=tokyonight&show_owner=true" alt="Bank Lite API Repository">
-  </a>
-  <a href="https://github.com/JoaoPedroAraujoSouza/room-alocator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=tokyonight&show_owner=true" alt="Room Allocator Repository">
-  </a>
+
+| 🚀 **Currently Building** | 🎯 **Specializing In** | 🔍 **Open To** |
+|:---:|:---:|:---:|
+| Regional Health System Frontend | Backend Architecture & API Design | Backend Engineering Opportunities |
+
 </div>
-
-### 💳 Bank Lite API ✅ *Strong Foundation Project*
-**Stack:** Java • Spring Boot • PostgreSQL • Docker • Swagger • Flyway • Testcontainers  
-- 🔐 Secure banking API with JWT-based authentication  
-- 🗄️ CRUD operations for clients, accounts, and transactions  
-- 💸 Supports deposits, withdrawals, transfers, and account statements  
-- 🐳 Fully containerized environment with Docker Compose  
-- 📜 Interactive API documentation with Swagger UI  
-- 🧩 Clean, layered architecture with proper domain separation  
-
-**Achievement:** Built as a **strong foundation project**, demonstrating expertise in **backend engineering, containerization, and modern API practices**.  
 
 ---
 
-### 🏢 Room Allocator System ✅ *Completed*
-**Stack:** Spring Boot • React Native • PostgreSQL • RESTful APIs • Postman  
-- 🏗️ Enterprise-grade backend with Spring Boot microservices  
-- 📱 Cross-platform mobile application with React Native  
-- ✅ Comprehensive API testing suite with Postman  
-- ⚡ Real-time room allocation algorithms  
+## 💻 Tech Stack & Expertise
 
-**Achievement:** Delivered a robust solution combining a **scalable backend** with an **intuitive mobile interface**.  
+<div align="center">
+
+### 🔧 **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 **Frontend & Mobile**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚡ **DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 💳 **Bank Lite API** - *Strong Foundation Project*
+[![Bank Lite API](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=bank-lite-api&theme=react&bg_color=1a1b27&title_color=6366f1&text_color=ffffff&icon_color=61dafb&border_color=6366f1&cache_seconds=86400)](https://github.com/JoaoPedroAraujoSouza/bank-lite-api)
+
+**Tech Stack:** `Java` • `Spring Boot` • `PostgreSQL` • `Docker` • `JWT` • `Swagger`
+
+🔐 **Secure banking API** with JWT authentication  
+🗄️ **Complete CRUD operations** for banking entities  
+🐳 **Fully containerized** with Docker Compose  
+📜 **Interactive documentation** with Swagger UI
+
+---
+
+### 🏢 **Room Allocator System** - *Enterprise Solution*
+[![Room Allocator](https://github-readme-stats.vercel.app/api/pin/?username=JoaoPedroAraujoSouza&repo=room-alocator&theme=react&bg_color=1a1b27&title_color=6366f1&text_color=ffffff&icon_color=61dafb&border_color=6366f1&cache_seconds=86400)](https://github.com/JoaoPedroAraujoSouza/room-alocator)
+
+**Tech Stack:** `Spring Boot` • `React Native` • `PostgreSQL` • `Microservices`
+
+🏗️ **Enterprise-grade backend** architecture  
+📱 **Cross-platform mobile** application  
+⚡ **Real-time allocation** algorithms
+
+</div>
 
 ---
 
 ## 🤝 Professional Contributions
 
-**🏥 Regional Health System Frontend**  
-*Repository: [saude-regional-front](https://github.com/seedabit/saude-regional-front)*  
-- ✅ Building responsive UI components with React  
-- ✅ Contributing to a real-world healthcare platform  
+<div align="center">
 
-**📊 Scholarship Monitoring System**  
-*Repository: [monitoramento-de-bolsistas-backend](https://github.com/emanuelrodrigues2005/monitoramento-de-bolsistas-backend)*  
-- ✅ Designed core CRUD operations and REST endpoints  
-- 🤝 Collaborated in an agile team using Git  
+| Project | Role | Technologies | Status |
+|:---:|:---:|:---:|:---:|
+| **🏥 Regional Health System** | Frontend Developer | `React` • `TypeScript` | ✅ Active |
+| **📊 Scholarship Monitoring** | Backend Developer | `Spring Boot` • `PostgreSQL` | ✅ Completed |
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroAraujoSouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroAraujoSouza&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JoaoPedroAraujoSouza&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPedroAraujoSouza&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🎯 What I Bring to Your Team
-
-- 🏗️ **Backend-first approach:** Scalable and maintainable APIs with Spring Boot  
-- 🔐 **Security-aware:** JWT authentication, validation, error handling  
-- 📜 **Well-documented APIs:** Swagger UI + Postman collections  
-- 🔧 **Testing & Reliability:** Unit tests and integration tests with Testcontainers  
-- 🤝 **Collaboration:** Agile teamwork, Git workflows, code reviews  
-
----
 
 <div align="center">
   
-### 💬 Let’s Connect!
-*Open to backend engineering roles and opportunities to build impactful systems.*
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroAraujoSouza&show_icons=true&theme=react&bg_color=1a1b27&title_color=6366f1&text_color=ffffff&icon_color=61dafb&border_color=6366f1&include_all_commits=false&count_private=false&disable_animations=false" alt="GitHub Stats" />
 
-[![Email](https://img.shields.io/badge/Email%20Me-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroAraujoSouza&layout=compact&langs_count=6&theme=react&bg_color=1a1b27&title_color=6366f1&text_color=ffffff&border_color=6366f1&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+### 📈 **Contribution Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroAraujoSouza&custom_title=Contribution%20Graph&bg_color=1a1b27&color=ffffff&line=6366f1&point=61dafb&area_color=6366f1&title_color=6366f1&area=true&height=300" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 💡 What I Bring to Your Team
+
+<div align="center">
+
+| 🏗️ **Backend Architecture** | 🔐 **Security First** | 📜 **Documentation** | 🔧 **Testing** |
+|:---:|:---:|:---:|:---:|
+| Scalable APIs with Spring Boot | JWT Auth & Validation | Swagger UI & Postman | Unit & Integration Tests |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 Let's Build Something Amazing Together!
+
+### *Open to backend engineering opportunities and impactful collaborations*
+
+[![Email](https://img.shields.io/badge/📧_Send_Email-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-ara%C3%BAjo-souza-55305037a/)
+
+---
+
+⭐ **"Code with purpose, build with passion"** ⭐
 
 </div>
