@@ -142,8 +142,6 @@
 
 <div align="center">
 
-## 🌟 Let's Build Something Amazing Together!
-
 ### *Open to backend engineering opportunities and impactful collaborations*
 
 [![Email](https://img.shields.io/badge/📧_Send_Email-joaopedroaraujosouzadev@gmail.com-0078D4?style=for-the-badge&logoColor=white)](mailto:joaopedroaraujosouzadev@gmail.com)
@@ -151,6 +149,5 @@
 
 ---
 
-⭐ **"Code with purpose, build with passion"** ⭐
-
 </div>
+
