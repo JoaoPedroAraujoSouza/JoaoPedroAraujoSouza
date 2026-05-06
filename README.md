@@ -1,4 +1,4 @@
-## Full Stack Developer | Typescript | NestJS | Java | Spring Boot
+## Backend Developer | Typescript | NestJS | Java | Spring Boot
 
 I am actively seeking to apply my knowledge in Java and React to create impactful technological solutions. Currently, I'm a 4th-period Computer Science undergraduate student at UFRPE and work as a Full Stack Development Intern at the InnovaGov Laboratory.
 
