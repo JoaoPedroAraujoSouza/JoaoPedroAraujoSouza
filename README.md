@@ -1,5 +1,4 @@
-# Hi, I'm João Pedro! 👋
-### Backend Developer | Typescript | NestJS | Java | Spring Boot
+## Full Stack Developer | Typescript | NestJS | Java | Spring Boot
 
 I am actively seeking to apply my knowledge in Java and React to create impactful technological solutions. Currently, I'm a 4th-period Computer Science undergraduate student at UFRPE and work as a Full Stack Development Intern at the InnovaGov Laboratory.
 
@@ -7,7 +6,6 @@ I am actively seeking to apply my knowledge in Java and React to create impactfu
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
